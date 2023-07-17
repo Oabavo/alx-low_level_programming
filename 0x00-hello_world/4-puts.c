@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - This is a building a multilingual puzzle using pits function
- * Return: o
+ * Return: 0
  */
 int main(void)
 {
-	puts(" \"Programming is like building a multilingual puzzle");
-	return (o);
+	puts("\"Programming is like building a multilingual puzzle \n");
+	return (0);
 }
