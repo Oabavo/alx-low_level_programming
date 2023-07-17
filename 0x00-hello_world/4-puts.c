@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - This is a c programming building a multilingual puzzle using puts function
+ * main - This is a building a multilingual puzzle using pits function
  * Return: 0
  */
 int main(void)
@@ -8,4 +8,3 @@ int main(void)
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
-
