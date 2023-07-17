@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - This is a C promma in building a multilingual puzzle using pita function
- *
- * Return: Always 0 (Success)
+ * main - This is a C programm in building a multilingual puzzleusing the function puts
+ * Return: 0
  */
 int main(void)
 {
