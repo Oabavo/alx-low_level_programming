@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - This is the entry point of building a multilingual puzzle using the function puts
+ * main - This is the entry point of building a multilingual puzzle using puts
  *
  * Return - 0 Succeaaful 
  */
