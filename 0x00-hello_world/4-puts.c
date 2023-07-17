@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - This is a C programm in building a multilingual puzzleusing the function puts
- * Return: 0
+ * main - This is the entry point of building a multilingual puzzle using the function puts
+ *
+ * Return - 0 Succeaaful 
  */
 int main(void)
 {
